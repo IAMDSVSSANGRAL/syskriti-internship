@@ -15,7 +15,7 @@ I build **decision systems that drive measurable impact**.
 
 ### 💡 Core Strengths
 
-- Python, SQL, Spark
+- Python, SQL, Spark , Clickhouse, 
 - Machine Learning & NLP (Transformers, Deep Learning)
 - MLOps (Docker, MLflow, DVC)
 - Data Pipelines & Automation
@@ -24,8 +24,8 @@ I build **decision systems that drive measurable impact**.
 ### 🔥 My Edge
 
 - Managed 250,000+ orders in an eCommerce business
-- Led teams of 20+ members
-- Built production-ready data systems
+- Led teams of 4 members
+- Deployed dagster pipeline in production and build mulitple kpi Dashboards for busines.
 - Strong ownership mindset
 
 ---
